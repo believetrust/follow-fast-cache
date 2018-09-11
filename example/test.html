@@ -5,7 +5,13 @@
 	<title>test-webpack-bundle</title>
 </head>
 <body>
-	<p>Hi, webpack</p>
+	<p>Hi, webpack,FastCache</p>
 	<script src="../release/bundle.js"></script>
+	<script>
+		let FC = window.FastCache
+		let cache = new FC()
+		cache.set('a',100)
+		alert(cache.get('a'))
+	</script>
 </body>
 </html>
