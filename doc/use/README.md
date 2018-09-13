@@ -15,3 +15,8 @@
 ```js
 	cache.get('a')
 ```
+
+## 清空
+```ks
+	cache.clear()
+```

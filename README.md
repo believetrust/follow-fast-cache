@@ -5,11 +5,15 @@
 - SSH key 将本地代码与git服务端联系起来
 
 ## 产品简介
-（此处要突出特点，打差异化竞争）
+此处要突出特点，打差异化竞争
 
 ## 产品安装和下载
+- https://github.com/believetrust/follow-fast-cache/releases
+- `npm i follow-fast-cache`
+- CND https://unpkg.com/follow-fast-cache/release/bundle.js
 
-## 快速使用（详细的使用文档或者二次开发文档，外链即可）
+
+## 快速使用
 简单接入文档
 - [使用文档](./doc/use/README.md)
 - [二次开发文档](./doc/dev/README.md)
